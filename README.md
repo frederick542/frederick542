@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an LLM project focused on providing general legal knowledge.<br>🌱 I’m currently expanding my expertise in LLMs, Laravel, and Deep Learning.<br>👯 I’m looking to collaborate on projects centered around LLM development and applications.
+🔭 I’m currently working on an LLM project focused on providing general legal knowledge.<br>🌱 I’m currently expanding my expertise in LLMs, Laravel, and Deep Learning.<br>👯 I’m looking to collaborate on projects centered around AI development and applications.
 
 
 ## 🌐 Socials:
